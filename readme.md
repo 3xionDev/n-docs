@@ -3,7 +3,6 @@ Hello, welcome to the n-docs, the unofficial documentation for the slightly esot
 (https://landgreen.github.io/sidescroller/)
 
 Contributors:
---
+#
 @3xiondev
---
 @Richard0820 (he made the original website)
