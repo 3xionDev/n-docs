@@ -2,7 +2,7 @@
 This section defines the files of the game, as well as their function.
 
 # Main Files
-.gitignore - Like its name, you should ignore this file. It only serves to specify which files that the Git backup system shouldn't back up.
+.gitignore - Like its name, you should ignore this file. It only serves to specify which files that the Git backup system shouldn't back up. \n
 LICENSE - The GNU General Public License. Specifies freedom to copy, modify, and reproduce the original files.
 README.md - Landgreen's minimal description of n-gon. README files contain necessary information about the project that the end user should know.
 Favicon.ico - The icon that appears in the page's tab.
