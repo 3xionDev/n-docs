@@ -1,7 +1,7 @@
 # File Guide
 This section defines the files of the game, as well as their function.
 
-# Main Files
+## Main Files
 .gitignore - Like its name, you should ignore this file. It only serves to specify which files that the Git backup system shouldn't back up.
 
 LICENSE - The GNU General Public License. Specifies freedom to copy, modify, and reproduce the original files.
@@ -16,11 +16,11 @@ style.css - Contains various style and metadata properties linked to index.html.
 
 todo.txt - Landgreen's to-do list. Contains the content that will be included in future updates, as well as some exclusive lore.
 
-# Main Files - img
+## Main Files - img
 
 This folder contains all of the images used to display with the tech. I'm not listing all of them here, there are like hundreds.
 
-# Main FIles - js
+## Main Files - js
 
 bullet.js - Defines the physics for all bullets used in the game, such as nails or super balls. Don't edit this unless you're adding a new GUNtech.
 
