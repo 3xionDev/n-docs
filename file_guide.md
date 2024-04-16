@@ -36,4 +36,10 @@ mob.js - Defines the shape, abilities, and properties of every mob in the game. 
 
 player.js - Contains the properties, abilities, and logic for `m.` It is recommended not to change this file unless you know what you're doing and have it backed up.
 
-powerup.js - Contains the logic for lasting effects as caused by tech, such as 
+powerup.js - Contains the logic for lasting effects as caused by tech, such as the determinism damage boost and the like.
+
+simulation.js - Defines the logic for the game loop, as well as some miscellaneous animations like the lightning animation.
+
+spawn.js - Contains the logic for the mob spawning functions such as `spawn.randomMob()`
+
+tech.js - Contains every tech in the game as well as their respective logic functions. Edit this file if you want to add custom tech or change the effects of an existing tech.
