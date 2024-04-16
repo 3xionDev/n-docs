@@ -4,3 +4,14 @@ One thing that most n-gon players want to try their hand at is map design. If yo
 
 This section will teach you how to create a very basic map and will teach you the core method behind designing an n-gon map.
 ____
+### Prerequisites
+
+You will need:
+
+A desktop or laptop computer
+
+Internet access
+
+Website console access (specifically site console)
+
+Time
