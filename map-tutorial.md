@@ -16,6 +16,8 @@ Website console access (specifically site console)
 
 A text editor (Notepad and TextEdit are both fine)
 
+Rudimentary javascript knowledge (you know what a function is and how to align indentations within a function)
+
 Time
 
 ___
